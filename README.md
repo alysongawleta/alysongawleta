@@ -1,4 +1,4 @@
-# Hi, I'm Alyson 👋
+# Hi, I'm Alyson 
 
 I've spent the last 9+ years knee-deep in Brazilian tax — bouncing between ERP implementations and finding ways to automate the parts of the job nobody wants to do by hand.
 
@@ -9,7 +9,7 @@ I've spent the last 9+ years knee-deep in Brazilian tax — bouncing between ERP
 - Python Automation
 
 ## Tools I actually use
-Python · SQL · Pandas · Streamlit · Selenium · Power BI · Advanced Excel · Infor LN
+Python · SQL · Pandas · Streamlit · Selenium · Power BI · Advanced Excel 
 
 ## Some things I've built
 - **XML Invoice Reader** — pulls and organizes data straight from NF-e XML files
