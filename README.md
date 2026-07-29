@@ -1,16 +1,32 @@
-## Hi there 👋
+# Hi, I'm Alyson 👋
 
-<!--
-**alysongawleta/alysongawleta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Tax Analyst with over 9 years of experience in Brazilian Tax, ERP Implementation and Process Automation.
 
-Here are some ideas to get you started:
+## 🚀 Current Focus
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Brazilian Tax Reform
+- Tax Technology
+- ERP Implementation
+- Python Automation
+
+## 💻 Technologies
+
+- Python
+- SQL
+- Pandas
+- Streamlit
+- Selenium
+- Power BI
+- Advanced Excel
+- Infor LN
+
+## 📂 Featured Projects
+
+- XML Invoice Reader
+- Tax Validation Tool
+- Streamlit Fiscal Dashboard
+- ERP Automation
+
+## 📫 Connect with me
+
+- LinkedIn: https://linkedin.com/in/alyson-gawleta
